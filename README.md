@@ -3,6 +3,8 @@
 A web calculator for the adiabatic flame temperature of fuel/oxidizer mixtures,
 using [Cantera](https://cantera.org) (chemical equilibrium) and [Streamlit](https://streamlit.io) (web page).
 
+**Live app: https://adiabatic-flame-temperature.streamlit.app/**
+
 ## Inputs
 
 Three settings switch how inputs are entered (defaults: Imperial, excess air, altitude):
